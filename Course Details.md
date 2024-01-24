@@ -59,7 +59,7 @@ To make this training accessible to a wider range of students, scholarships will
 
 **Quantitative aptitude & logical reasoning:** Ratios and proportions, percentage, time, speed and distance, basic logical reasoning.
 
-**Python programming:** Fundamental programming concepts, datatypes operators, conditionals, iterations, functions.
+**Python programming:** Fundamental programming concepts, datatypes, operators, conditionals, iterations, functions.
 
 **Data Structures and Algorithms:** Array, tree, graph, searching & sorting algorithms.
 
