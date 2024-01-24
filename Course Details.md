@@ -10,6 +10,8 @@
 ### Objective:
 The primary aim of this program is to equip students with practical skills and knowledge in machine learning, utilizing cutting-edge technologies from Intel. By participating in this industry-ready training, students will gain a competitive edge in the job market and contribute to the advancement of our institution's commitment to excellence in education.
 
+-----------------------------
+
 ### Selection Criteria:
 Students will be selected based on a combination of their academic records and performance in the Selection Test, ensuring that the most deserving candidates are given the opportunity to participate.
 
@@ -37,7 +39,9 @@ To make this training accessible to a wider range of students, scholarships will
 * 	Apply online using the link: [intel-Powered Foundation Course in Machine Learning- Registration]<https://forms.gle/hQmQsWNWfmWEkhoa7>
 * 	Selection is based on the CGPA and performance in Screening Test conducted by Intel.
   
-### Why Choose Intel Unnati?
+---------------------------------
+
+### Why Choose Intel-Unnati?
 
 🌐 Master the latest in Intel-powered machine learning technologies.
 
@@ -47,6 +51,8 @@ To make this training accessible to a wider range of students, scholarships will
 
 🚀 Elevate your employability with industry-recognized certification.
 
+---------------------------
+
 ### Important Dates:
 
 * Last date for application: February 5, 2024  11.00 p.m.
@@ -54,6 +60,8 @@ To make this training accessible to a wider range of students, scholarships will
 * Publication of rank list: February 12, 2024.
 * Course enrolment: February 15, 2024.
 * Course commencement: February 19,2024.
+
+----------------------------
 
 > **Syllabus for the Selection Test**:
 
