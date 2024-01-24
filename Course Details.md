@@ -55,7 +55,7 @@ To make this training accessible to a wider range of students, scholarships will
 * Course enrolment: February 15, 2024.
 * Course commencement: February 19,2024.
 
-> **Syllabus for Selection test**:
+> **Syllabus for the Selection Test**:
 
 **Quantitative aptitude & logical reasoning:** Ratios and proportions, percentage, time, speed and distance, basic logical reasoning.
 
