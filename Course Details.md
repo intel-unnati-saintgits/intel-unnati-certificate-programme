@@ -49,10 +49,16 @@ To make this training accessible to a wider range of students, scholarships will
 
 ### Important Dates:
 
-* Last date for Application: February 5, 2024.
-* Screening Test: February 9, 2024.
-* Publication of Rank list: February 12, 2024.
+* Last date for application: February 5, 2024  11.00 p.m.
+* Screening test: February 9, 2024.
+* Publication of rank list: February 12, 2024.
 * Course enrolment: February 15, 2024.
 * Course commencement: February 19,2024.
 
-> *
+> **Syllabus for Selection test**:
+**Quantitative aptitude & logical reasoning:** Ratios and proportions, percentage, time, speed and distance, basic logical reasoning.
+**Python programming:** Fundamental programming concepts, datatypes operators, conditionals, iterations, functions.
+**Data Structures and Algorithms:** Array, tree, graph, searching & sorting algorithms.
+**Linear Algebra:** Matrix operations, determinant and its properties, eigen values, eigen vectors and its properties, eigen space, null space.
+**Multi variable Calculus:** Partial derivatives, chain rule, total derivative, error and approximation.
+**Probability and Statistics:** Basic probability, conditional probability, theorems in probability, Bayes theorem, basic statistics.
