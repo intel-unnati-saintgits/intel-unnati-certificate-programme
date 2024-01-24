@@ -47,7 +47,7 @@ To make this training accessible to a wider range of students, scholarships will
 *	Enhance employability and career prospects in the tech industry.
 
 ### How to enroll?
-* 	Register online using the link: (intel-Powered Foundation Course in Machine Learning- Registration)<https://forms.gle/hQmQsWNWfmWEkhoa7>
+* 	Register online using the link: [intel-Powered Foundation Course in Machine Learning- Registration]<https://forms.gle/hQmQsWNWfmWEkhoa7>
 * 	Selection is based on the CGPA and performance in Screening Test conducted by Intel.
 Why Choose Intel Unnati?
 🌐 Master the latest in Intel-powered machine learning technologies.
