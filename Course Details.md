@@ -33,19 +33,6 @@ To make this training accessible to a wider range of students, scholarships will
 * Networking opportunities with industry experts.
 * Increased employability in the rapidly evolving tech landscape.
 
-### Course Highlights:
-*	In-depth hands-on training on Intel technologies in machine learning.
-*	Real-world application through a comprehensive Capstone Project.
-*	Networking opportunities with industry experts.
-*	Intel Certification upon successful completion.
-
-### Course Objectives:
-*	Acquire practical skills in machine learning using Intel technologies.
-*	Apply theoretical concepts through hands-on training sessions.
-*	Foster a deep understanding of Intel architecture in machine learning frameworks.
-*	Provide real-world experience through a challenging Capstone Project.
-*	Enhance employability and career prospects in the tech industry.
-
 ### How to enroll?
 * 	Register online using the link: [intel-Powered Foundation Course in Machine Learning- Registration]<https://forms.gle/hQmQsWNWfmWEkhoa7>
 * 	Selection is based on the CGPA and performance in Screening Test conducted by Intel.
