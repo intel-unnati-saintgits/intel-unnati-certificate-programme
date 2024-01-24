@@ -65,6 +65,6 @@ To make this training accessible to a wider range of students, scholarships will
 
 **Linear Algebra:** Matrix operations, determinant and its properties, eigen values, eigen vectors and its properties, eigen space, null space.
 
-**Multi variable Calculus:** Partial derivatives, chain rule, total derivative, error and approximation.
+**Multi-variable Calculus:** Partial derivatives, chain rule, total derivative, error and approximation.
 
 **Probability and Statistics:** Basic probability, conditional probability, theorems in probability, Bayes theorem, basic statistics.
