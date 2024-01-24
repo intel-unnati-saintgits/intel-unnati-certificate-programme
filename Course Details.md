@@ -14,7 +14,7 @@ The primary aim of this program is to equip students with practical skills and k
 Students will be selected based on a combination of their academic records and performance in the Selection Test, ensuring that the most deserving candidates are given the opportunity to participate.
 
 ### Scholarships:
-To make this training accessible to a wider range of students, scholarships will be awarded based on their scores in the Selection Test and overall CGPA, fostering inclusivity and merit-based participation. A combined score is calculated as aggregate of the CGPA and the Screening Test Score. Details of Scholarship is shown in the Table below:
+To make this training accessible to a wider range of students, scholarships will be awarded based on their scores in the Selection Test and overall CGPA, fostering inclusivity and merit-based participation. A combined score is calculated as aggregate of the CGPA and the Selection Test Score. Details of Scholarship is shown in the Table below:
 
 
 | SL.No | Criteria             | Category           | Amount Payable |
