@@ -56,6 +56,7 @@ To make this training accessible to a wider range of students, scholarships will
 * Course commencement: February 19,2024.
 
 > **Syllabus for Selection test**:
+
 **Quantitative aptitude & logical reasoning:** Ratios and proportions, percentage, time, speed and distance, basic logical reasoning.
 
 **Python programming:** Fundamental programming concepts, datatypes operators, conditionals, iterations, functions.
