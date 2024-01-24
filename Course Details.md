@@ -34,7 +34,7 @@ To make this training accessible to a wider range of students, scholarships will
 * Increased employability in the rapidly evolving tech landscape.
 
 ### How to enroll?
-* 	Register online using the link: [intel-Powered Foundation Course in Machine Learning- Registration]<https://forms.gle/hQmQsWNWfmWEkhoa7>
+* 	Apply online using the link: [intel-Powered Foundation Course in Machine Learning- Registration]<https://forms.gle/hQmQsWNWfmWEkhoa7>
 * 	Selection is based on the CGPA and performance in Screening Test conducted by Intel.
   
 ### Why Choose Intel Unnati?
@@ -49,7 +49,7 @@ To make this training accessible to a wider range of students, scholarships will
 
 ### Important Dates:
 
-* Last date for Registration: February 5, 2024.
+* Last date for Application: February 5, 2024.
 * Screening Test: February 9, 2024.
 * Publication of Rank list: February 12, 2024.
 * Course enrolment: February 15, 2024.
