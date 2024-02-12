@@ -84,3 +84,5 @@
 | Mathew George Chunkathil        | Male   | CSE    | Sixth | 80   |
 | Amal Raj                        | Male   | EEE    | Fifth | 81   |
 | B. Adithyan                     | Male   | RB     | Third | 82   |
+
+**Note:** This rank list is created based on the CGPA provided in the application form and the score in the selection test. Selection of a candidate to the certificate programme will subject to the physical verification of CGPA.
