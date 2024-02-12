@@ -22,7 +22,7 @@
 | Mathews Reji                   | Male   | CSE    | Fourth   | 18   |
 | Aaron James Koshy              | Male   | CSE    | Fifth    | 19   |
 | Mayakha Sara Saji              | Female | CSE    | Fifth   | 20   |
-| Sarang kj                      | Male   | ECE    | Third   | 21   |
+| Sarang K J                      | Male   | ECE    | Third   | 21   |
 | Riya Sara Shibu                | Female | IMCA   | Sixth  | 22   |
 | Nandana S Nair                 | Female | CSE    | Sixth  | 23   |
 | Akshay Gopan                   | Male   | CSE    | Fifth  | 24   |
@@ -30,7 +30,7 @@
 | Rahul Krishnan                  | Male   | ECE    | Third  | 26   |
 | Jobinjoy Ponnappal             | Male   | CSE    | Sixth  | 27   |
 | Anjana Vinod                   | Female | CSE    | Fifth  | 28   |
-| Abna Ev                        | Female | CSE    | Fifth  | 29   |
+| Abna E V                        | Female | CSE    | Fifth  | 29   |
 | Varsha S Panicker               | Female | CSE    | Fourth | 30   |
 | Rizia Sara Prabin              | Female | CSE    | Fourth | 31   |
 | Anandhakrishnan J              | Male   | CSE    | Sixth  | 32   |
@@ -43,7 +43,7 @@
 | Sani Anna Varghese             | Female | CSE    | Sixth  | 39   |
 | Sreya Anna Joseph               | Female | CSE    | Third  | 40   |
 | Jyothsna Sara Abey             | Female | CSE    | Fifth  | 41   |
-| Nevin k Mathew                 | Male   | CSE    | Fourth | 42   |
+| Nevin K Mathew                 | Male   | CSE    | Fourth | 42   |
 | Abhay Prasad                   | Male   | ECE    | Sixth  | 43   |
 | AISWARYA RAHUL                  | Female | ECE    | Sixth | 44   |
 | Meenakshi Mony                 | Female | CSE    | Sixth | 45   |
@@ -78,7 +78,7 @@
 | Prannoy Roy                     | Male   | ECE    | Fifth | 74   |
 | Kavya Raj P                     | Female | CSE    | Sixth | 75   |
 | Alaina Baiju                    | Female | CSE    | Sixth | 76   |
-| Aishwarya PS                    | Female | ECE    | Sixth | 77   |
+| Aishwarya P S                    | Female | ECE    | Sixth | 77   |
 | Jino Manoj                      | Male   | EEE    | Fifth | 78   |
 | Noel Mathews                    | Male   | CSE    | Sixth | 79   |
 | Mathew George Chunkathil        | Male   | CSE    | Sixth | 80   |
