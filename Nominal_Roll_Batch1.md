@@ -1,4 +1,4 @@
-# $\color{blue}\text{Nominal Roll of First Batch of Intel Powered Foundation Course in Machine Learning}$
+# $\small\color{blue}\text{Nominal Roll of First Batch of Intel Powered Foundation Course in Machine Learning}$
 
 | Name                           | Gender | Branch | Semester | E-mail ID                                 | Mobile No.   | Enrolment ID   |
 |--------------------------------|--------|--------|----------|-------------------------------------------|--------------|----------------|
