@@ -4,11 +4,15 @@ This repository contains information regarding the Intel-Powered Foundation Cour
 # Intel-Powered Foundation Course in Machine Learning
 > A Certificate Programme offered by Intel-India under intel-Unnati Programme
 
+----
 
-## Intro by AI!
+# Click the bellow image to hear an Intro created by AI...
 
 [<img src="intel-unnati.png" width="600" height="360"
 />](https://www.youtube.com/watch?v=Q-yGo5Qh7NU)
+
+----
+
 ### Program Overview:
 
 Duration: 60 hours (30 hours hands-on training, 30 hours Capstone Project)
