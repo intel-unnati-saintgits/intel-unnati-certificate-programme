@@ -18,7 +18,7 @@ The primary aim of this program is to equip students with practical skills and k
 
 
 
-## Course schedule
+## Schedule for hands-on-training
 
 | Day                       | Session-1 (9:00 am to 11:00 am)           | Session-2 (11:10 am to 1:10 pm)         | Session-3 (2:00 pm to 3:00 pm)          | Session 4 (3:10 pm to 4:10 pm)           |
 |---------------------------|-------------------------------------------|------------------------------------------|-----------------------------------------|-------------------------------------------|
