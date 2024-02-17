@@ -39,4 +39,4 @@ The primary aim of this program is to equip students with practical skills and k
 | Friday (23-02-2024)        | Performance metrics - Dr. Starlet Ben Alex & Siju K S | Model evaluation - Dr. Starlet Ben Alex & Siju K S | Model Deployment-1 - Dr. Naveen John Punnoose | Model Deployment-2 - Dr. Naveen John Punnoose |
 
 ## Details of Participants in the First Batch
-<https://github.com/intel-unnati-saintgits/intel-unnati-certificate-programme/blob/main/Nominal_Roll_Batch1.md>
+[Nominal Roll](https://github.com/intel-unnati-saintgits/intel-unnati-certificate-programme/blob/main/Nominal_Roll_Batch1.md)
