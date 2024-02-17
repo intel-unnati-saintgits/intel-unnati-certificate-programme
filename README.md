@@ -8,7 +8,7 @@ This repository contains information regarding the Intel-Powered Foundation Cour
 
 # Click the bellow image to hear an Intro created by AI...
 
-[<img src="intel-unnati.png" width="600" height="360"
+[<img src="intel-unnati.png" 
 />](https://www.youtube.com/watch?v=Q-yGo5Qh7NU)
 
 ----
