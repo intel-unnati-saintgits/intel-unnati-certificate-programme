@@ -7,7 +7,7 @@ This repository contains information regarding the Intel-Powered Foundation Cour
 
 ## Intro by AI!
 
-[<img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.intel.com%2Fcontent%2Fdam%2Fwww%2Fpublic%2Fus%2Fen%2Fnewsroom%2Fhomepage%2Fnewsroom-logo-home-16x9.jpg&tbnid=M9go9IM1ThzXBM&vet=12ahUKEwicyNeO5rGEAxUUZ2wGHYwtBWIQMyggegUIARCeAQ..i&imgrefurl=https%3A%2F%2Fwww.intel.com%2Fcontent%2Fwww%2Fus%2Fen%2Fnewsroom%2Fhome.html&docid=fokyjOc3OHOSQM&w=1920&h=1080&q=intel%20unnati%20logo&hl=en&ved=2ahUKEwicyNeO5rGEAxUUZ2wGHYwtBWIQMyggegUIARCeAQ" width="600" height="300"
+[<img src="intel-unnati.png" width="600" height="360"
 />](https://www.youtube.com/watch?v=Q-yGo5Qh7NU)
 ### Program Overview:
 
