@@ -2,7 +2,7 @@
 This repository contains information regarding the Intel-Powered Foundation Course in Machine Learning
 
 # Intel-Powered Foundation Course in Machine Learning
-> A Certificate Programme offered by Intel-India under intel-Unnati Programme
+> A Certificate Programme offered by Intel-India under Intel-Unnati Programme
 
 ----
 
