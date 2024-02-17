@@ -37,3 +37,6 @@ The primary aim of this program is to equip students with practical skills and k
 | Wednesday (21-02-2024)     | Supervised Learning-3 - Er. Veena A Kumar & Siju K S | SVM - Er. Gayathri J L & Siju K S      | Ensemble methods - Er. Gayathri J L & Siju K S | Model training and Fine tuning - Er. Gayathri J L & Siju K S |
 | Thursday (22-02-2024)      | Unsupervised Learning-1 - Er. Arun Sebastian & Siju K S | Unsupervised Learning-2 - Er. Arun Sebastian & Siju K S | Dimensionality reduction - Er. Arun Sebastian & Siju K S | Anomaly detection - Er. Arun Sebastian & Siju K S |
 | Friday (23-02-2024)        | Performance matrices - Dr. Starlet Ben Alex & Siju K S | Model evaluation - Dr. Starlet Ben Alex & Siju K S | Model Deployment-1 - Dr. Naveen John Punnoose | Model Deployment-2 - Dr. Naveen John Punnoose |
+
+## Details of Participants in the First Batch
+<https://github.com/intel-unnati-saintgits/intel-unnati-certificate-programme/blob/main/Nominal_Roll_Batch1.md>
