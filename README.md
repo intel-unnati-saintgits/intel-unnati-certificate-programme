@@ -40,3 +40,15 @@ The primary aim of this program is to equip students with practical skills and k
 
 ## Details of Participants in the First Batch
 [Nominal Roll](https://github.com/intel-unnati-saintgits/intel-unnati-certificate-programme/blob/main/Nominal_Roll_Batch1.md)
+
+-------------------------
+## Day 1 Actions
+
+Registering with `OneAPI`:
+
+All participants are requested to signup to intel devcloud for accessing OneAPI using the link:
+
+<https://www.intel.com/content/www/us/en/developer/tools/devcloud/services.html#sign-up>
+
+
+----------------
