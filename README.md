@@ -52,3 +52,10 @@ All participants are requested to signup to intel devcloud for accessing OneAPI 
 
 
 ----------------
+
+## Support for Day 1 Activities:
+
+- To login to Intel OneAPI, use the link: <https://devcloud.intel.com/oneapi/get_started/>
+
+<-- - To see a deployment demo, visit :<https://model-iris-unnati-demo.streamlit.app/>
+-->
