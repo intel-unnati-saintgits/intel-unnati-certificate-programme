@@ -60,3 +60,7 @@ Upon successful completion of the capstone project, participants will demonstrat
 5. **Project Submission (End of Week 4) 📄:**
    - Submission of the final project report with concise documentation.
    - Upload relevant artifacts, code, and documentation to the designated platform, emphasizing the integration of Intel technologies for enhancing experiential learning.
+  
+>[!Note]
+>Dataset and detailed discussions on these project titles are shown in the following link:
+>[Kaggle site information](https://www.kaggle.com/discussions/getting-started/114864)
