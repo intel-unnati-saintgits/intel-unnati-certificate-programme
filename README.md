@@ -23,11 +23,6 @@ Fee: Rs. 10,000.00
 The primary aim of this program is to equip students with practical skills and knowledge in machine learning, utilizing cutting-edge technologies from Intel. By participating in this industry-ready training, students will gain a competitive edge in the job market and contribute to the advancement of our institution's commitment to excellence in education.
 
 
-
-![](intel-br.png)
-
-
-
 ## Schedule for hands-on-training
 
 | Day                       | Session-1 (9:00 am to 11:00 am)           | Session-2 (11:10 am to 1:10 pm)         | Session-3 (2:00 pm to 3:00 pm)          | Session 4 (3:10 pm to 4:10 pm)           |
@@ -70,7 +65,7 @@ To know all about the Capstone Project, [Click here](https://github.com/intel-un
 
 | Project Code | Project Description |
 |--------------|----------------------|
-| CP-1         | [Description](.doc/CP-1.md)         |
+| CP-1         | [Description](CP-1.md)         |
 | CP-2         | Description          |
 | CP-3         | Description          |
 | CP-4         | Description          |
