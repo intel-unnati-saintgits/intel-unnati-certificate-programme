@@ -68,4 +68,16 @@ To know all about the Capstone Project, [Click here](https://github.com/intel-un
 ----
 ## Project Basket and detailed project description
 
-[] 
+| Project Code | Project Description |
+|--------------|----------------------|
+| CP-1         | [Description](.doc/CP-1.md)         |
+| CP-2         | Description          |
+| CP-3         | Description          |
+| CP-4         | Description          |
+| CP-5         | Description          |
+| CP-6         | Description          |
+| CP-7         | Description          |
+| CP-8         | Description          |
+| CP-9         | Description          |
+| CP-10        | Description          |
+
