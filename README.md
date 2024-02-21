@@ -66,13 +66,13 @@ To know all about the Capstone Project, [Click here](https://github.com/intel-un
 | Project Code | Project Description |
 |--------------|----------------------|
 | CP-1         | [Description](CP-1.md)         |
-| CP-2         | Description          |
-| CP-3         | Description          |
-| CP-4         | Description          |
-| CP-5         | Description          |
-| CP-6         | Description          |
-| CP-7         | Description          |
-| CP-8         | Description          |
-| CP-9         | Description          |
-| CP-10        | Description          |
+| CP-2         | [Description](CP-2.md)         |
+| CP-3         | [Description](CP-3.md)         |
+| CP-4         | [Description](CP-4.md)          |
+| CP-5         | [Description](CP-5.md)          |
+| CP-6         | [Description](CP-6.md)          |
+| CP-7         | [Description](CP-7.md)          |
+| CP-8         | [Description](CP-8.md)         |
+| CP-9         | [Description](CP-9.md)          |
+| CP-10        | [Description](CP-10.md)         |
 
