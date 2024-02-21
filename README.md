@@ -60,7 +60,12 @@ All participants are requested to signup to intel devcloud for accessing OneAPI 
 <-- - To see a deployment demo, visit :<https://model-iris-unnati-demo.streamlit.app/>
 -->
 
-
+----
 ## Capstone Project- Objectives, Outcomes and SOP
 
-To know all about the Capstone Project [Visit](https://github.com/intel-unnati-saintgits/intel-unnati-certificate-programme/blob/main/Capstone-project-details.md)
+To know all about the Capstone Project, [Click here](https://github.com/intel-unnati-saintgits/intel-unnati-certificate-programme/blob/main/Capstone-project-details.md)
+
+----
+## Project Basket and detailed project description
+
+[] 
