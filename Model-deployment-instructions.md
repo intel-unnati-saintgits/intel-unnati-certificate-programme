@@ -48,7 +48,7 @@ It's worth checking the latest [documentation](https://docs.streamlit.io/) or co
 >
 >- Upload the following files one by one:
 >
->`model.py` , `app.py`, `rf_model.sav' and `requirements.txt`.
+>`model.py` , `app.py`, `rf_model.sav` and  `requirements.txt` .
 
 
 >$\text{Step 4:}$
