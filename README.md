@@ -52,8 +52,31 @@ All participants are requested to signup to intel devcloud for accessing OneAPI 
 
 - To login to Intel OneAPI, use the link: <https://devcloud.intel.com/oneapi/get_started/>
 
-<-- - To see a deployment demo, visit :<https://model-iris-unnati-demo.streamlit.app/>
--->
+
+---
+
+## Day-5 Instructions
+
+1. Clone the required repos for Day-5 activities by pasting following lines of code in the terminal.
+   
+   - git clone https://github.com/intel-unnati-saintgits/Model-Deployment-Demo.git
+   - git clone https://github.com/intel-unnati-saintgits/Performance-metrics.git
+
+----
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ----
 ## Capstone Project- Objectives, Outcomes and SOP
