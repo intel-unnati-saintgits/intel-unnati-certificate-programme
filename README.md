@@ -68,7 +68,7 @@ All participants are requested to signup to intel devcloud for accessing OneAPI 
 
 1. [Companion DigiBook](https://bookdown.org/siju_swamy/ML_Course/)
 2. A textbook download from: <https://github.com/yanshengjia/ml-road/blob/master/resources/Hands%20On%20Machine%20Learning%20with%20Scikit%20Learn%20and%20TensorFlow.pdf>
-
+3. A onestop destination for many good resourses to pursue your Machine Learning Journey: <https://github.com/yanshengjia/ml-road/tree/master>
 ----
 
 
