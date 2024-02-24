@@ -64,10 +64,12 @@ All participants are requested to signup to intel devcloud for accessing OneAPI 
 
 ----
 
+## Course Material for the course
 
+1. [Companion DigiBook](https://bookdown.org/siju_swamy/ML_Course/)
+2. 
 
-
-
+----
 
 
 
