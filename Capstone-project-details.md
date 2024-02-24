@@ -9,7 +9,7 @@ The capstone project for the "Intel powered Foundation Course in Machine Learnin
    - Utilize machine learning techniques to create engaging and personalized experiential learning experiences for students.
 
 2. **Integrate Intel Technologies 💻:**
-   - Incorporate Intel-powered tools and technologies to optimize machine learning models for experiential learning applications, promoting innovation in teaching.
+   - Incorporate Intel-powered tools and technologies to optimize machine learning models for experiential learning applications.
 
 3. **Tailor Personalized Learning Solutions 🌐:**
    - Develop machine learning models that provide tailored learning experiences, catering to individual student needs and preferences.
