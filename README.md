@@ -101,3 +101,8 @@ To know all about the Capstone Project, [Click here](https://github.com/intel-un
 | CP-9         | [Description](CP-9.md)          |
 | CP-10        | [Description](CP-10.md)         |
 
+
+
+## Project Details with team members, Mentors and Project Titles
+
+<https://github.com/intel-unnati-saintgits/intel-unnati-certificate-programme/blob/main/Project%20Team%20Details.md>
